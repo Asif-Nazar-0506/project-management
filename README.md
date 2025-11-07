@@ -32,7 +32,7 @@ A comprehensive Mini Project Management REST API built with Spring Boot 3.x, fea
 ## 🛠️ Technology Stack
 
 - **Java 17**
-- **Spring Boot 3.2.0**
+- **Spring Boot 3.5.7**
 - **Spring Data JPA**
 - **Spring Security**
 - **JWT (JSON Web Tokens)**
